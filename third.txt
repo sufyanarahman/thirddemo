@@ -3,3 +3,5 @@ new changes
 learning revert
 
 learning fast forward smart git
+
+learning commit merge from terminal
