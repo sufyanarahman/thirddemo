@@ -1,3 +1,5 @@
 new changes
 
 learning revert
+
+learning fast forward smart git
